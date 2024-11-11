@@ -1,0 +1,7 @@
+result = max(3, 4, 67, 190, 999, 100000., 9899, -1.0)
+result_min = min(3, 4, 67, 190, 999, 100000.00, 9899, -1, -1.0)
+print(result)
+print(type(result))
+print(result_min)
+print(type(result_min))
+print(min(1., 1, 1.0))
