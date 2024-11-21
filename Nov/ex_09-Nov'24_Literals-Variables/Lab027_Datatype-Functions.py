@@ -1,0 +1,6 @@
+name = "Ashish " + str('Mishra')
+print(name)
+print(type(name))
+age = int(28.5)
+print(age)
+print(type(age))
